@@ -1,0 +1,52 @@
+[
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": "1951"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": "1949"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": "1813"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": "1954"
+    },
+    {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "year": "1927"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": "1937"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "year": "1605"
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": "1851"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year": "1869"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": "1866"
+    }
+]

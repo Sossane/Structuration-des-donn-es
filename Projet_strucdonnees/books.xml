@@ -1,0 +1,52 @@
+<books>
+  <book>
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <year>1951</year>
+  </book>
+  <book>
+    <title>1984</title>
+    <author>George Orwell</author>
+    <year>1949</year>
+  </book>
+  <book>
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+  </book>
+  <book>
+    <title>The Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1954</year>
+  </book>
+  <book>
+    <title>To the Lighthouse</title>
+    <author>Virginia Woolf</author>
+    <year>1927</year>
+  </book>
+  <book>
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1937</year>
+  </book>
+  <book>
+    <title>Don Quixote</title>
+    <author>Miguel de Cervantes</author>
+    <year>1605</year>
+  </book>
+  <book>
+    <title>Moby-Dick</title>
+    <author>Herman Melville</author>
+    <year>1851</year>
+  </book>
+  <book>
+    <title>War and Peace</title>
+    <author>Leo Tolstoy</author>
+    <year>1869</year>
+  </book>
+  <book>
+    <title>Crime and Punishment</title>
+    <author>Fyodor Dostoevsky</author>
+    <year>1866</year>
+  </book>
+</books>
